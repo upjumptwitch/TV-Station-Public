@@ -1,0 +1,1 @@
+nickname@username@roomname@access_token@done
